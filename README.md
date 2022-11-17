@@ -44,7 +44,8 @@ Final Project <br/>
   - 검색
   - 정렬
   - ![1  프로젝트 전체 리스트](https://user-images.githubusercontent.com/104309118/197676182-ccc071c1-49f8-4c50-9a0a-4ac5843ff212.png)
-  
+- 채팅 (Chatting)
+  - ![chat 2](https://user-images.githubusercontent.com/104717358/202364475-18094cae-7f9a-4472-80e9-5aa046202f93.png)
 - 프로젝트그룹 (Project Group)
   - CRUD
   - 정렬
